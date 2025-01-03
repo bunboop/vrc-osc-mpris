@@ -1,0 +1,6 @@
+[config]
+send_address = 127.0.0.1
+send_port = 9000
+small_bubble = true
+sleep_time = 1500
+# program = "Spotify"
